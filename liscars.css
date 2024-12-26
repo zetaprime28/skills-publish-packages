@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(43, 40, 45);
+}
+.bgbanner{
+    background-image: url(img/carshopbg.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 70vh;  
+}
+
